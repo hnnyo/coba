@@ -690,6 +690,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" group-title="1. INDONESIA" tvg-logo="https://i.ibb.co.com/sRwjL9W/20240903-004420.jpg",SCTV Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/sctv.m3u
+-------
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 
 https://haoyunlai.serv00.net/Smartv-1.php?id=SCTV
