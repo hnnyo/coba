@@ -2016,16 +2016,15 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 1" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="SPORTS;BOLA",SONY TEN 1
-https://pastebin.com/raw/iqyMeK1B
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/sony%20ten%201.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 2" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="SPORTS;BOLA",SONY TEN 2
-https://pastebin.com/raw/p5RKS7LD
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/sony%20ten%202.m3u
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="SPORTS;BOLA",SONY  TEN 3
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="SPORTS;BOLA",SONY TEN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.newkso.ru/wind/premium887/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 3" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="SPORTS;BOLA",SONY TEN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
