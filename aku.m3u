@@ -7,7 +7,7 @@ rtmp:///live/test123
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="1. INDONESIA",TRANS 7 p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://geo.dailymotion.com/player.html?video=x8qckyq&autoplay=1&mute=1&controls=0&ui-logo=0&ui-start-screen-info=0&loop=1
+https://live-c.cf.dmcdn.net/sec2(A6Hp1Owl2JDfEAgi_5Sc1Zr0eh20siAWvvQHWM61bQqP0p7nBQ5WidKtjrtdAXTnYVLvJ78IO8gwxJEw2MAI-ge8Nhw_srnz8fURwU4bG7FfQR8YB20-Q5V2KX4RteFn)/dm/3/x8qckyq/s/live-720.m3u8
 
 EXTINF:-1 tvg-logo="https://images." group-title="LIVE EVENT", preman pensiun
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
