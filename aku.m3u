@@ -5,6 +5,10 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/refs/heads/B-i
 --
 rtmp:///live/test123
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="1. INDONESIA",TRANS 7 p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://geo.dailymotion.com/player.html?video=x8qckyq&autoplay=1&mute=1&controls=0&ui-logo=0&ui-start-screen-info=0&loop=1
+
 EXTINF:-1 tvg-logo="https://images." group-title="LIVE EVENT", preman pensiun
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://pastevents.rctiplus.id/vids/preman-pensiun-s9-08-04-2025/v_,1.,2.,mp4.kkvod/index-f2-v1-a1.m3u8
