@@ -26,6 +26,10 @@ https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
 https://pastebin.com/raw/0a96dpHJ
 https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png" group-title="MotoGP", MOTOGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/motogp.m3u8
+
 EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png" group-title="TIMNAS", RCTI+ LIVE ONLY TIMNAS 3
 https://d37nf5n4fr3338.cloudfront.net/index_6.m3u8
 
@@ -33,6 +37,7 @@ EXTINF:-1 group-title="1. INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/pi
 https://pastebin.com/uaa5ngwh
 
 EXTINF:-1 tvg-logo="https://images." group-title="LIVE EVENT", VOLI KOREA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/720.stream/hdntl=exp=1744139804~acl=*%2ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2f*~data=hdntl~hmac=5796ea29a2860f871fd9b7a1341d880c66f6d2b1b67ec77e754b2b966166f4ed/chunklist.m3u8
 
 
