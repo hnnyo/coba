@@ -191,12 +191,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://iili.io/Jmoc5Ku.png" group-title="1. INDONESIA",Fashion TV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="1. INDONESIA",DUNIA LAIN
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-
 #EXTINF:-1 group-title="SPORTS;BOLA" tvg-id="" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
