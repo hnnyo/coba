@@ -975,10 +975,9 @@ EXTINF:-1 group-title="SPORTS;MALAY SPORT" tvg-id="" tvg-logo="https://www.lyngs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/refs/heads/B-inal22/AstroArena1.m3u8
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="1. INDONESIA;BOLA;SPORTS;TIMNAS",Sportstars 2 ⚽
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="1. INDONESIA;BOLA;SPORTS;TIMNAS",Sportstars 2 Live Only
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
-
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/SPORTSTARS2.m3u8
 
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="1. INDONESIA;BOLA;SPORTS;TIMNAS",Sportstars 2 B
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
