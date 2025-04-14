@@ -5,6 +5,11 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/refs/heads/B-i
 --
 rtmp:///live/test123
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstar2.png" group-title="TIMNAS",SPORTSTARS 2 X
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/sportstars2X.m3u8
+
+
 EXTINF:-1 tvg-logo="https://images." group-title="LIVE EVENT", preman pensiun
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://pastevents.rctiplus.id/vids/preman-pensiun-s9-08-04-2025/v_,1.,2.,mp4.kkvod/index-f2-v1-a1.m3u8
