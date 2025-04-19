@@ -2286,3 +2286,8 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/popmusik.png" group-title="1. INDONESIA",POP MUSIK 
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8 
 
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="" tvg-logo="",Dance TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04
+(Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
