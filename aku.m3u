@@ -6,9 +6,9 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/refs/heads/B-i
 rtmp:///live/test123
 ----------
 
-EXTINF:-1 tvg-logo="https://images." group-title="LIVE EVENT", preman pensiun
+#EXTINF:-1 tvg-logo="https://images." group-title="LIVE EVENT", BATULICIN OPEN 2025 (BILLIARD INTERNASIONAL)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://pastevents.rctiplus.id/vids/preman-pensiun-s9-08-04-2025/v_,1.,2.,mp4.kkvod/index-f2-v1-a1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png" group-title="TIMNAS", RCTI LIVE ONLY TIMNAS
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
