@@ -1285,7 +1285,10 @@ https://perfecttv.net:443/perfecttv/perfecttv/1604
 -----
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", Indosiar (bola) 2
-http://www.geocities.ws/wahyuiptv/IndoSiar-HD.m3u8
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+#https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
+https://dl.dropboxusercontent.com/scl/fi/9gwys59kkf7jnkyi46uh5/SALURAN-OFFLINE.mp4?rlkey=i7u3yfsjitqoset4g5okimbpl&st=1nvtuxy1&dl=0
+
 
 ----
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
