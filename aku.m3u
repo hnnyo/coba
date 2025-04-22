@@ -2186,6 +2186,42 @@ https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h05/01.m3u8
 
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="" tvg-logo="",CNA
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04
+(Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="" tvg-logo="",TRT World
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04
+(Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h156/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="" tvg-logo="",FREEDOM
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04
+(Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="" tvg-logo="",WION
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04
+(Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h91/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="" tvg-logo="",Al Jazeera English
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04
+(Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h143/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="" tvg-logo="",Channel Jowo
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04
+(Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS;BOLA",OPTUS 1 Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
