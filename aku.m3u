@@ -54,6 +54,17 @@ EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
 https://perfecttv.net:443/perfecttv/perfecttv/1576
 
+#EXTINF:-1 group-title="SPORTS;MALAY SPORT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYR8AKA9yoPg-vCK1slZXANJAewnEZQAoqC2t0WoWGQ7vtZjGBKA6cHtBYZirUawOEEGWkRuhIBe8KOwV9elN9BQxQdgxNXn4VgyMZBtXFRbpfdgqnKgzTyzyFFMzHs7OGrSHiF29pb6RT3CW6DTibzRQho5rTxDAurX3cYe4BwV0_BZfDnR83Dp0akEtZ/s700/ASTRO%20PREMIER%20LEAGUE.png",ASTRO PREMIER LEAGUE B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS;MALAY SPORT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYR8AKA9yoPg-vCK1slZXANJAewnEZQAoqC2t0WoWGQ7vtZjGBKA6cHtBYZirUawOEEGWkRuhIBe8KOwV9elN9BQxQdgxNXn4VgyMZBtXFRbpfdgqnKgzTyzyFFMzHs7OGrSHiF29pb6RT3CW6DTibzRQho5rTxDAurX3cYe4BwV0_BZfDnR83Dp0akEtZ/s700/ASTRO%20PREMIER%20LEAGUE.png",ASTRO PREMIER LEAGUE 2 B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
+
+
 #EXTINF:-1 group-title="1. INDONESIA" tvg-id="Maxstream.id" tvg-logo="https://iptv.urfan.web.id/logo/maxstream.png",MAXSTREAM
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd?9
