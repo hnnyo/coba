@@ -143,17 +143,10 @@ https://nfsnew.koskoros.ru/nfs/premium575/mono.m3u8|referer=https://pkpakiplay.x
 rtmp:///live/test123
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="Bulu Tangkis", BWF 1
-https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861533155910061_AiSD.m3u8?txSecret=f7e12256c4972a933745688beb548662&txTime=67FAFE80
------
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/court-sports-network/a0cd9da1-fa51-46a9-9f12-79b3b8f9508a/0.m3u8
 
----
-https://bit.ly/badmintonsatu
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="Bulu Tangkis", BWF 2
-https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3873152001738061_AiSD.m3u8?txSecret=f408bd031b1fdbf4785993a237f6af0c&txTime=67F9E540
-
+https://v4-17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pullhw.zhaoyangyang.cn/live/8786870_lud.m3u8?sub_m3u8=true&auth_info=FV68WVlogTbob7%2FF58EolAG4ieBA%2Bb5KwH72CHYegdfaEI256MtQ9wiT1qMZAhc0.7674444c793833503735674a49776b4d&user_session_id=b5dbd0afe2d9c5a3754f8e7dd5916faf&edge_slice=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="Bulu Tangkis", BWF 3
 https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861531602674061_AiSD.m3u8?txSecret=ab33e3c69067d69d0f5d7f1e68e37334&txTime=67F86990
