@@ -2221,3 +2221,28 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17140&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
 
+
+-----
+
+#EXTINF:-1 group-title="BOLA;SPORTS" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1 PT
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
+
+#EXTINF:-1 group-title="BOLA;SPORTS" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2 PT
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8
+
+#EXTINF:-1 group-title="BOLA;SPORTS" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3 PT
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%203.m3u8
+
+#EXTINF:-1 group-title="BOLA;SPORTS" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4 PT
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%204.m3u8
+
+#EXTINF:-1 group-title="BOLA;SPORTS" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5 PT
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%205.m3u8
+
+#EXTINF:-1 group-title="BOLA;SPORTS" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 6 PT
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8
+
+
+
+
+
