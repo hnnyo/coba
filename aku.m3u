@@ -2251,6 +2251,16 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://x4new.newkso.ru/x4/skynz8/mono.m3u8
 
+#EXTINF:-1 tvg-logo="h095758" group-title="SPORTS;BOLA;LIGA INGGRIS", Sky Sport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://azonew.newkso.ru/azo/eplayerSKYPL/mono.m3u8
 
+#EXTINF:-1 tvg-logo="h095758" group-title="SPORTS;BOLA;LIGA INGGRIS", Sky Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://x4new.newkso.ru/x4/skynz7/mono.m3u8
+
+#EXTINF:-1 tvg-logo="h095758" group-title="SPORTS;BOLA;LIGA INGGRIS", Sky Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://dokko1new.newkso.ru/dokko1/premium593/mono.m3u8
 
 
