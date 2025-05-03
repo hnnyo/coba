@@ -209,7 +209,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
 
 
-#EXTINF:-1 group-title="1. INDONESIA;BOLA;SPORTS;BRI LIGA 1" tvg-id="Sportstars4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sportstars_4.png/640px-Sportstars_4.png", Sportstars 4 HD
+#EXTINF:-1 group-title="1. INDONESIA;BOLA;SPORTS;BRI LIGA 1;BUNDESLIGA" tvg-id="Sportstars4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sportstars_4.png/640px-Sportstars_4.png", Sportstars 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -966,7 +966,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index_5.m3u8
 ------
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="1. INDONESIA;BOLA",SPORTSTARS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="1. INDONESIA;BOLA;BUNDESLIGA",SPORTSTARS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
