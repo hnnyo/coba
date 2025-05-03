@@ -2247,4 +2247,8 @@ https://x4new.newkso.ru/x4/eplayerSky_Sport_Bundesliga_2_HD/mono.m3u8
 
 #EXTINF:-1 tvg-logo="h095758" group-title="SPORTS;BOLA;LIGA INGGRIS", EPL LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://hls.uouetrq19.com/live/hd-en-6MsG9cemnZKwXb7Yt7.m3u8?txSecret=546e789c396c35b63893766d465066c7&txTime=6817825B
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/epl1
+
+#EXTINF:-1 tvg-logo="h095758" group-title="SPORTS;BOLA;LIGA INGGRIS", EPL LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/epl2
