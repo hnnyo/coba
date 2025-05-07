@@ -374,9 +374,12 @@ https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 
-#EXTINF:-1 group-title="1. INDONESIA"  tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
+#EXTINF:-1 group-title="1. INDONESIA"  tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+https://av-ch-cdn.mncnow.id/live/eds/DAAITV/sa_dash/DAAITV.mpd
+
 
 
 #EXTINF:-1 group-title="Daerah" tvg-id="dutatv.id" tvg-logo="https://iptv.urfan.web.id/logo/dutatv.png",Duta TV
