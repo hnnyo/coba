@@ -2249,7 +2249,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%
 #EXTINF:-1 group-title="BOLA;SPORTS" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 6 PT
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8
 
-#EXTINF:-1 tvg-logo="h095758" group-title="SPORTS;BOLA;LIGA INGGRIS", Sky Sport PL
+EXTINF:-1 tvg-logo="h095758" group-title="SPORTS;BOLA;LIGA INGGRIS", Sky Sport PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://azonew.newkso.ru/azo/eplayerSKYPL/mono.m3u8
 
@@ -2265,7 +2265,7 @@ https://azonew.newkso.ru/azo/skynz6/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://ddy6new.newkso.ru/ddy6/premium558/mono.m3u8
 
-#EXTINF:-1 tvg-logo="h095758" group-title="SPORTS;BOLA;BUNDESLIGA", Sky Sport Bundesliga 3
+EXTINF:-1 tvg-logo="h095758" group-title="SPORTS;BOLA;BUNDESLIGA", Sky Sport Bundesliga 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://azonew.newkso.ru/azo/eplayerSky_Sport_Bundesliga_2_HD/mono.m3u8
 https://x4new.newkso.ru/x4/eplayerSky_Sport_Bundesliga_2_HD/mono.m3u8
