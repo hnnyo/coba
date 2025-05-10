@@ -7,6 +7,9 @@ rtmp:///live/test123
 ----------
 
 #EXTINF:-1 tvg-logo="https://images." group-title="1. INDONESIA",SCTV LIVE
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/sctvlive.m3u8
+
+------
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
