@@ -18,6 +18,13 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 ----
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sctv.m3u8
 
+#EXTINF:-1 tvg-logo="https://images." group-title="1. INDONESIA", Dunia Lain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
+http://iptvid.my.id/avc/Ida/Tonisupendi123/dunialain.m3u8
+
+#EXTINF:-1 tvg-logo="https://images." group-title="1. INDONESIA", Antara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
+http://iptvid.my.id/avc/Ida/Tonisupendi123/antara.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png" group-title="TIMNAS", RCTI LIVE ONLY TIMNAS
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
