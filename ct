@@ -1,0 +1,39 @@
+#EXTINF:-1 group-title="VD" tvg-logo="https://thumbor.prod.vidiocdn.com/6A_DNzALMBvbY9AC88YS8Xqhk3M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282382/412b42.jpg",ct 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17938&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17938&type=dash
+
+#EXTINF:-1 group-title="VD" tvg-logo="https://thumbor.prod.vidiocdn.com/6A_DNzALMBvbY9AC88YS8Xqhk3M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282382/412b42.jpg",ct 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6686&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6686&type=dash
+
+#EXTINF:-1 group-title="VD" tvg-logo="https://thumbor.prod.vidiocdn.com/6A_DNzALMBvbY9AC88YS8Xqhk3M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282382/412b42.jpg",ct 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6786&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6786&type=dash
+
+#EXTINF:-1 group-title="VD" tvg-logo="https://thumbor.prod.vidiocdn.com/6A_DNzALMBvbY9AC88YS8Xqhk3M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282382/412b42.jpg",ct 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=9182&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=9182&type=dash
+
+#EXTINF:-1 group-title="VD" tvg-logo="https://thumbor.prod.vidiocdn.com/6A_DNzALMBvbY9AC88YS8Xqhk3M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282382/412b42.jpg",ct 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=9183&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=9183&type=dash
