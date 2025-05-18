@@ -91,6 +91,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd?9
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd?9
  
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co.com/QnR3JYY/daznlaliga.png" group-title="SPORTS;BOLA;LIGA SPANYOL" , DAZN LaLiga 🇪🇸
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
+
+-----
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
@@ -150,6 +154,9 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/refs/heads/B-
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="SPORTS;BOLA;LIGA SPANYOL" , DAZN 2 🇪🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
+
+-----
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
@@ -1981,9 +1988,9 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%
 #EXTINF:-1 group-title="BOLA;SPORTS" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 6 PT
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8
 
-EXTINF:-1 tvg-logo="h095758" group-title="SPORTS;BOLA;LIGA INGGRIS", Sky Sport PL
+#EXTINF:-1 tvg-logo="h095758" group-title="SPORTS;BOLA;LIGA INGGRIS", Sky Sport PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://azonew.newkso.ru/azo/eplayerSKYPL/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
 
 #EXTINF:-1 tvg-logo="h095758" group-title="SPORTS;BOLA;LIGA INGGRIS", Sky Sport 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
