@@ -46,6 +46,10 @@ EXTINF:-1 tvg-logo="https://images." group-title="LIVE EVENT", VOLI KOREA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/720.stream/hdntl=exp=1744139804~acl=*%2ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2f*~data=hdntl~hmac=5796ea29a2860f871fd9b7a1341d880c66f6d2b1b67ec77e754b2b966166f4ed/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images." group-title="1. INDONESIA", Trans 7 indi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
+
+
 #EXTINF:-1 tvg-id="My Kidz.id" tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg" group-title="ANAK-ANAK", My Kidz
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
