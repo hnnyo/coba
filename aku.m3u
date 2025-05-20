@@ -2144,7 +2144,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo4npYreuYLREHPY92TVqW3OW3NZ-J7mXeJ1V7q9mEDq2I56l-TZb1meF7UHloPP5lp_r1Uza7-5GtPqHIg29NBtRgm3VHiRbnvUvjqWoos4gpJyeE6fOLif2Ze9NlECEiRH1YjUAzwO7G70HaVoVkgEwJVyuudt5dAhgbPTPXpcauCeuRflrYMnbyQa5b/s700/BIZNET%20KIDS.png" group-title="KIDS",BIZNET KIDS HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo4npYreuYLREHPY92TVqW3OW3NZ-J7mXeJ1V7q9mEDq2I56l-TZb1meF7UHloPP5lp_r1Uza7-5GtPqHIg29NBtRgm3VHiRbnvUvjqWoos4gpJyeE6fOLif2Ze9NlECEiRH1YjUAzwO7G70HaVoVkgEwJVyuudt5dAhgbPTPXpcauCeuRflrYMnbyQa5b/s700/BIZNET%20KIDS.png" group-title="ANAK-ANAK",BIZNET KIDS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
