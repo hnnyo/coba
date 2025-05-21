@@ -52,7 +52,8 @@ http://iptvid.my.id/avc/Ida/Tonisupendi123/warner.m3u8
 
 #EXTINF:-1 tvg-logo="https://images." group-title="1. INDONESIA", Trans 7 indi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
-http://iptvid.my.id/avc/Ida/Tonisupendi123/trans7.m3u8
+https://cdngb196.indihometv.com/atm/DASH/trans7/trans7-avc1_2500000=7-3277611490000000.mpd
+#http://iptvid.my.id/avc/Ida/Tonisupendi123/trans7.m3u8
 
 #EXTINF:-1 tvg-id="My Kidz.id" tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg" group-title="ANAK-ANAK", My Kidz
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
