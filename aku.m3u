@@ -46,9 +46,9 @@ EXTINF:-1 tvg-logo="https://images." group-title="LIVE EVENT", VOLI KOREA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/720.stream/hdntl=exp=1744139804~acl=*%2ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2f*~data=hdntl~hmac=5796ea29a2860f871fd9b7a1341d880c66f6d2b1b67ec77e754b2b966166f4ed/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images." group-title="1. INDONESIA", SindoNews
+#EXTINF:-1 tvg-logo="https://images." group-title="1. INDONESIA", Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
-https://cdn13jtedge.indihometv.com/atm/DASH/mncnews/mncnews-avc1_1200000=4-3278329680000000.mpd
+https://cdn13jtedge.indihometv.com/atm/DASH/warner/warner-avc1_2500000=6-3278334240000000.mpd
 
 #EXTINF:-1 tvg-logo="https://images." group-title="1. INDONESIA", Trans 7 indi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
@@ -2168,7 +2168,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
 
 
-#EXTINF:-1 group-title="ANAK-ANAK" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_duniaanak_small1.png",DUNIA ANAK
+EXTINF:-1 group-title="ANAK-ANAK" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_duniaanak_small1.png",DUNIA ANAK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 
