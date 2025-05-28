@@ -96,16 +96,6 @@ EXTINF:-1 tvg-logo="https://i.ibb.co.com/zZD1bKh/20240903-002957.jpg" group-titl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/mojilive.m3u8
 
-#EXTINF:-1 group-title="SPORTS;MALAY SPORT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYR8AKA9yoPg-vCK1slZXANJAewnEZQAoqC2t0WoWGQ7vtZjGBKA6cHtBYZirUawOEEGWkRuhIBe8KOwV9elN9BQxQdgxNXn4VgyMZBtXFRbpfdgqnKgzTyzyFFMzHs7OGrSHiF29pb6RT3CW6DTibzRQho5rTxDAurX3cYe4BwV0_BZfDnR83Dp0akEtZ/s700/ASTRO%20PREMIER%20LEAGUE.png",ASTRO PREMIER LEAGUE B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
-
-#EXTINF:-1 group-title="SPORTS;MALAY SPORT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYR8AKA9yoPg-vCK1slZXANJAewnEZQAoqC2t0WoWGQ7vtZjGBKA6cHtBYZirUawOEEGWkRuhIBe8KOwV9elN9BQxQdgxNXn4VgyMZBtXFRbpfdgqnKgzTyzyFFMzHs7OGrSHiF29pb6RT3CW6DTibzRQho5rTxDAurX3cYe4BwV0_BZfDnR83Dp0akEtZ/s700/ASTRO%20PREMIER%20LEAGUE.png",ASTRO PREMIER LEAGUE 2 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
-
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumb.viva.id/intipseleb/1265x711/2023/10/06/651f4364392df-vtv.jpg" group-title="1. INDONESIA", VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch107.m3u8
@@ -1106,24 +1096,24 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/refs/heads/B-i
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="MALAY SPORT;BOLA;SPORTS",Astro Grandstand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2698.ts
+https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.iosplayer.ru/zeko/premium123/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabolaA.png" group-title="MALAY SPORT;BOLA;SPORTS",Arena Bola
+#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabolaA.png" group-title="MALAY SPORT;BOLA;SPORTS",Astro Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2680.ts
+https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium124/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2A.png" group-title="MALAY SPORT;BOLA;SPORTS",Arena Bola 2
+EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2A.png" group-title="MALAY SPORT;BOLA;SPORTS",Arena Bola 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2681.ts
 
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png"  group-title="MALAY SPORT;BOLA",Astro Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2682.ts
+https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium125/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -1134,46 +1124,16 @@ https://zekonew.iosplayer.ru/zeko/premium125/mono.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="MALAY SPORT;BOLA",Astro Premier League 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2683.ts
+https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium126/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-EXTINF:-1 tvg-id="Astropremierleague3.my" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague3_2024.png" group-title="MALAY SPORT;BOLA",Astro Premier League 3
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://whatareyoudoing.ddns.net/corsproxy.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd?PID=&PAID=5108&deviceIdType=%5BdevIdType%5D&deviceId=46cdc10b00be27782e9feb7159624e3b&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-82ed7dab-eae9-4c26-90a7-4e5f59041d3c&optin=true&hhid=1f8349ccd5e530b09bf8601620404fc9&kvp=genre~HD%2CSPORTS%2CALL
-
-EXTINF:-1 tvg-id="Astropremierleague4.my" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague4_2024.png" group-title="MALAY SPORT;BOLA",Astro Premier League 4
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4
-http://whatareyoudoing.ddns.net/corsproxy.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd?PID=&PAID=5111&deviceIdType=%5BdevIdType%5D&deviceId=46cdc10b00be27782e9feb7159624e3b&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-82ed7dab-eae9-4c26-90a7-4e5f59041d3c&optin=true&hhid=1f8349ccd5e530b09bf8601620404fc9&kvp=genre~HD%2CSPORTS%2CALL
-
-EXTINF:-1 tvg-id="Astropremierleague5.my" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague5_2024.png" group-title="MALAY SPORT;BOLA",Astro Premier League 5
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf
-http://whatareyoudoing.ddns.net/corsproxy.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd?PID=&PAID=5113&deviceIdType=%5BdevIdType%5D&deviceId=46cdc10b00be27782e9feb7159624e3b&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-82ed7dab-eae9-4c26-90a7-4e5f59041d3c&optin=true&hhid=1f8349ccd5e530b09bf8601620404fc9&kvp=genre~HD%2CSPORTS%2CALL
-
-EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="MALAY SPORT;BOLA;SPORTS",Astro Football
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kf6+hDwIx8xSPv2CcpLkDg","kid":"efQChzCsypq4sA8mFY3bEA"}],"type":"temporary"}
-http://whatareyoudoing.ddns.net/corsproxy.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
-
-
 #EXTINF:-1 tvg-id="Astrobadminton.my" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="MALAY SPORT",Astro Badminton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/refs/heads/B-inal22/AstroBadmintonB.m3u8
+------
 
-
-EXTINF:-1 tvg-id="Astrosportsplus.my" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="MALAY SPORT;SPORTS",Astro Sports Plus
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
-http://whatareyoudoing.ddns.net/corsproxy.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd?PID=&PAID=5171&deviceIdType=%5BdevIdType%5D&deviceId=46cdc10b00be27782e9feb7159624e3b&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-8785ee22-c496-4710-bff4-d2380e11ff6e&optin=true&hhid=1f8349ccd5e530b09bf8601620404fc9&kvp=genre~SPORTS%2CHD
-------------
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-id="" tvg-logo="https://seeklogo.com/images/D/dtvi-logo-C89B3BCB28-seeklogo.com.png",dTVi
 https://e.siar.us/live/dtvi.m3u8
@@ -1203,7 +1163,7 @@ https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium
 
 #EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ARENA SPORT PREMIUM 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://nijineh-lalajo.hf.space/proxy?url=https://nix1-dc4new.newkso.ru/nix1-dc4/arena2premiumserbia/mono.m3u8
+https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 
 #EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ARENA SPORT PREMIUM 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
