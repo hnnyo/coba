@@ -55,6 +55,11 @@ https://cdn13jtedge.indihometv.com/atm/DASH/warner/warner-avc1_2500000=6-3278334
 https://cdn12jtedge.indihometv.com/atm/DASH/trans7/trans7-avc1_2500000=7-3277707030000000.mpd
 #http://iptvid.my.id/avc/Ida/Tonisupendi123/trans7.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/01-ttv.png" group-title="1. INDONESIA",Trans TV indi
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn12jtedge.indihometv.com/atm/DASH/transtv/transtv-avc1_2500000=7-3284600346800000.mpd
+
+
 #EXTINF:-1 tvg-id="My Kidz.id" tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg" group-title="ANAK-ANAK", My Kidz
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
