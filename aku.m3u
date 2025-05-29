@@ -1207,20 +1207,15 @@ http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/157578
 
 https://cdngb196.indihometv.com/atm/hlsv3/trans7/trans7-avc1_1500000=6-mp4a_96000=5.m3u8?encp=&uid=&expp=
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="1. INDONESIA",TRANS TV ind
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
-https://cdn13jtedge.indihometv.com/atm/DASH/transtv/transtv-mp4a_96000=5-3277695147000000.mpd
-#http://iptvid.my.id/avc/Ida/Tonisupendi123/transtv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="1. INDONESIA",TRANS TV a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="1. INDONESIA",TRANS 7 a
+EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="1. INDONESIA",TRANS 7 b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/trans%207%20aja.m3u
 ----
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="1. INDONESIA",TRANS 7 b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="1. INDONESIA",TRANS 7 a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
@@ -1250,20 +1245,20 @@ EXTINF:-1 group-title="1. INDONESIA;TIMNAS" tvg-logo="https://i.ibb.co/GHzKmTK/G
 #EXTVLCOPT:http-user-agent=q
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1577
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://i.ibb.co.com/Nj8BkS2/20240903-003410.jpg", Trans TV ()
+EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://i.ibb.co.com/Nj8BkS2/20240903-003410.jpg", Trans TV ()
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
 ---
 https://perfecttv.net:443/perfecttv/perfecttv/1602
 
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://i.ibb.co.com/Br5vT4Z/20240903-003440.jpg", Trans 7 ()
+EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://i.ibb.co.com/Br5vT4Z/20240903-003440.jpg", Trans 7 ()
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
 ----
 https://perfecttv.net:443/perfecttv/perfecttv/1603
 
-#EXTINF:-1 group-title="1. INDONESIA;BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", Indosiar (bola)
+EXTINF:-1 group-title="1. INDONESIA;BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", Indosiar (bola) b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
@@ -1271,7 +1266,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 https://perfecttv.net:443/perfecttv/perfecttv/1604
 -----
 
-#EXTINF:-1 group-title="1. INDONESIA;BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", Indosiar (bola) 2 Live Only
+#EXTINF:-1 group-title="1. INDONESIA;BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", Indosiar (bola)
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/indosiar.m3u8
 
 
@@ -1821,18 +1816,6 @@ https://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd 
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUMtKSR5T3BU0/INEWS.png" group-title="1. INDONESIA;BUNDESLIGA",iNEWS V+
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=4
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/t2eUJrSwMTCLX-XQHL8QdH0KUepvttJF1mN1bWNiypaebE_7FKRDu289Ca/s700/AXN.png" group-title="1. INDONESIA",AXN F
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
