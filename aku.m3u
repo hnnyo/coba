@@ -17,12 +17,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="1. INDONESIA;BOLA;SPORTS;TIMNAS;BUNDESLIGA;Kapal Api Indonesia Open", SPORTSTARS 2 B
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://beww.pl/telegram.m3u8?punya=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDkzMDEwNDd9.9XppTq3L36vdd-9W4VqbLhQfL2EEqFqqYY5bVyQdOE0&kategori=cyev3
-
-
 #EXTINF:-1 tvg-logo="https://images." group-title="LIVE EVENT", LIVE ONLY
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/mls.m3u8
 --
