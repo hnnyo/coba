@@ -148,7 +148,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd?9
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AllPlay_Entertainment.png/2560px-AllPlay_Entertainment.png" group-title="1. INDONESIA", ALLPLAY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd?9
+https://cdn13jtedge.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-3293972000000000.mpd
+#https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd?9
  
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co.com/QnR3JYY/daznlaliga.png" group-title="SPORTS;BOLA;LIGA SPANYOL" , DAZN LaLiga 🇪🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
