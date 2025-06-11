@@ -497,6 +497,10 @@ https://why.biz.id/Iptv/o2kimia.php?id=nettv-hd
 
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png", TVONE HD 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://gooo.blog/opix/genx.m3u8?id=tvone
+
+-----
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04
 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -659,6 +663,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" group-title="1. INDONESIA", Metro TV HD
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://gooo.blog/opix/genx.m3u8?id=metrotv
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 ---------
