@@ -461,7 +461,8 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SEA TODAY - [Channel 336].id" tvg-name="" tvg-logo="https://i.ibb.co/jR80sw4/seatoday.png" group-title="1. INDONESIA", SEA TODAY 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://hls.seatoday.com/hls_hd/seatoday.m3u8
+https://streaming.indihometv.com/atm/DASH/seatoday/seatoday-avc1_2500000=7-3298092536800000.mpd
+#https://hls.seatoday.com/hls_hd/seatoday.m3u8
 
 
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
