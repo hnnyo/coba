@@ -1718,20 +1718,13 @@ https://cors-proxy.cooks.fyi/https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comc
 #KODIPROP:inputstream.adaptive.license_key=d9b51f283986a72d5abd7014f614103d:652b2e1adbb349f4cccaad21ecfb1497
 https://cors-proxy.cooks.fyi/https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/FS2_HD_TVE_23172_0_9112589095069127163.mpd?trred=false
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.ibb.co.com/NFGNs5T/tudn.png" group-title="SPORTS;BOLA", TUDN 🇲🇽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
-
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.ibb.co.com/NFGNs5T/tudn.png" group-title="SPORTS;BOLA", TUDN 🇺🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8dd478d7a7eec7c4034554052fa0832:9550dfb6e48b301539de8ac99e921506
-https://cors-proxy.cooks.fyi/https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/TUDNH_HD_TVE_25039_0_7642147744339498163.mpd
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.ibb.co.com/NFGNs5T/tudn.png" group-title="SPORTS;BOLA", TUDN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fl3.moveonjoy.com/TUDN/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLtnxMj/MIC-tv.jpg" group-title="1. INDONESIA", MUSIC INFORMATION CHANNEL
 https://v2.siar.us/mic/live/playlist.m3u8
+
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co.com/NpQc5Sv/K-Pop.jpg" group-title="1. INDONESIA", KPOP PLAY
 https://live.24hrkpop.com/hls/3/stream.m3u8
 
