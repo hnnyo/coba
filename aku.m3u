@@ -74,15 +74,15 @@ https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDIvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS",TBS USA
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",TBS USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://fl3.moveonjoy.com/TBS/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS",MBC
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",MBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS", Super Sports Premier League 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™", Super Sports Premier League 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
 
@@ -1750,7 +1750,7 @@ https://cors-proxy.cooks.fyi/https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comc
 #KODIPROP:inputstream.adaptive.license_key=d9b51f283986a72d5abd7014f614103d:652b2e1adbb349f4cccaad21ecfb1497
 https://cors-proxy.cooks.fyi/https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/FS2_HD_TVE_23172_0_9112589095069127163.mpd?trred=false
 
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.ibb.co.com/NFGNs5T/tudn.png" group-title="SPORTS;BOLA", TUDN
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.ibb.co.com/NFGNs5T/tudn.png" group-title="SPORTS;BOLA;Fifa Club World Cup™", TUDN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fl3.moveonjoy.com/TUDN/tracks-v1a1/mono.ts.m3u8
 
