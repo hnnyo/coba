@@ -1,5 +1,17 @@
 #EXTM3U billed-msg="SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS;Fifa Club World Cup™" , SPORTV b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/sportvb.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS;Fifa Club World Cup™" , TRT Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/try.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS;Fifa Club World Cup™" , DAZN 2 CWC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/DAZNCWC.m3u8
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",Tabii Spor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii1.m3u8
@@ -32,16 +44,6 @@ https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/novasport3.m3u8
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",DAZN 1 CWC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/dazn1.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",DAZN 2 CWC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/dazn2.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",DAZN 3 CWC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/dazn3.m3u8
-
-
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",A CWC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1879,6 +1881,16 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd 
+-----
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="" tvg-logo="https://caranyhop/LOGO/sindonews.jpg",SINDO NEWS V+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=5&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #EXTINF:-1 tvg-id="Zee Bioskop" tvg-logo="https://static.mncnow.id/images/channel/6ecb9b54/794c_r32.jpg" group-title="1. INDONESIA", Zee Bioskop V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
