@@ -17,10 +17,6 @@ https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/supersport3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/sportvb.m3u8
 
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS;Fifa Club World Cup™" , DSports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/dsports.m3u8
-
 EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS;Fifa Club World Cup™" , DAZN ITA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/daznita.m3u8
@@ -29,40 +25,16 @@ https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/daznita.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/try.m3u8
 
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS;Fifa Club World Cup™" , Globo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/globo.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",Tabii Spor 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii1.m3u8
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS;Fifa Club World Cup™" , Rush Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/rushsport.m3u8
-
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",SPORTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/sportv.m3u8
 
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",Tabii Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",Tabii Spor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii2.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",Tabii Spor 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii3.m3u8
-
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",TUDN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tudn2.m3u8
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",Nova Sport 3
+EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",Nova Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/novasport3.m3u8
 
@@ -78,7 +50,7 @@ https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/dazn0.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/dazn2.m3u8
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",DAZN CWC
+#EXTINF:-1 tvg-id="test" tvg-log="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",DAZN CWC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://dca-co-live-gcr.gcdn.co/ko6mguhkusyg1d4fx8h9062ci/tv25f/stream.mpd?channel=2650&outlet=dazn-row&plang=en
 #https://dca-co-live-gcr.gcdn.co/1qbi21i8jfsc31vt8jbym82kjy/tv25f/stream.mpd?channel=2650&outlet=dazn-row&plang=en
