@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/sportvb.m3u8
 
-EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS;Fifa Club World Cup™" , DSports
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS;Fifa Club World Cup™" , DSports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/dsports.m3u8
 
