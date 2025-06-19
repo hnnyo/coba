@@ -52,7 +52,8 @@ https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/dazn2.m3u8
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",DAZN CWC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://dca-co-live-gcr.gcdn.co/1qbi21i8jfsc31vt8jbym82kjy/tv25f/stream.mpd?channel=2650&outlet=dazn-row&plang=en
+https://dca-co-live-gcr.gcdn.co/ko6mguhkusyg1d4fx8h9062ci/tv25f/stream.mpd?channel=2650&outlet=dazn-row&plang=en
+#https://dca-co-live-gcr.gcdn.co/1qbi21i8jfsc31vt8jbym82kjy/tv25f/stream.mpd?channel=2650&outlet=dazn-row&plang=en
 
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",A CWC
