@@ -1445,34 +1445,32 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 ---SportVidio----
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="VDIO;SPORTS;BOLA;LIGA ITALIA",C TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=drm
-https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash 
- 
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6686&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=6686&type=dash
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="VDIO;SPORTS;BOLA;LIGA ITALIA",C TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
-  
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6685&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=6685&type=dash
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="VDIO;SPORTS;BOLA;LIGA ITALIA",C TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
-
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6786&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=6786&type=dash
  
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="VDIO;SPORTS;BOLA;LIGA INGGRIS",C TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
- 
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9182&type=drm
+https://skyblue.openwindow043.workers.dev/play.mpd?id=9182&type=dash
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="VDIO;SPORTS;BOLA;LIGA INGGRIS",C TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2129,23 +2127,26 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9353&type=dash
 
 #EXTINF:-1 group-title="SPORTS;VDIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLn0CvLC-XYTvCdrOBdtPlxHBe0t_hN3EfU5EXpH2TJh7aNmO907eaIgh4k4UALWrvHVnhmUtpoGyLQllS-aasmXRfF4dSNwOgSGKYGO0FH1-2WXdvnWy1RRJuxprYvm8RxP_X4Ps3NFkxyH8HywFv9k0SpNPyzv1R21G6BpgXsVP76Bfm1Y14D6xenUwC/s700/SPOTV.png",SPOTV V
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17139&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17139&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=17139&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=17139&type=dash
 
 #EXTINF:-1 group-title="SPORTS;VDIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH5yw2zQU3qFEhGfVta7omszlhyphenhyphenRjdcSeGz8k7wzoh_a1VMdEWWMrjnwwmrAS1s1ZJilBDUeSVdJa35jrMGX6G1KJ7G8EwfYRDzcFWBP-ipZXTYkPQBrUDW5sxyJWQHKmKprhLoZ4AsNse7Bx_cjnERvDaqEj1ODMmIfT3YJfw0rwy61DTRmuS-MG7Nzy/s700/SPOTV%202.png",SPOTV 2 V
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17140&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=17140&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=17140&type=dash
 
 
 -----
 
 #EXTINF:-1 group-title="BOLA;SPORTS" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1 PT
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
+https://raw.githubusercontent.com/zaEXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=17139&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=17139&type=dashckwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 
 #EXTINF:-1 group-title="BOLA;SPORTS" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2 PT
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8
