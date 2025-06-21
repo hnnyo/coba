@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=384000,RESOLUTION=1280x720
+https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_live_football_4/tracks-v1a1/mono.ts.m3u8
