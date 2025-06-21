@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=384000,RESOLUTION=1280x720
+https://ppy-cdn-stream.lapakstreaming.site/8LpHexevlthiwihl8one1ab/76614fbeee7590b092be2eae99704e87.m3u8
