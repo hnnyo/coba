@@ -1928,10 +1928,14 @@ https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
-EXTINF:-1 tvg-id="Zee Bioskop" tvg-logo="https://static.mncnow.id/images/channel/6ecb9b54/794c_r32.jpg" group-title="1. INDONESIA", Zee Bioskop V+
+#EXTINF:-1 tvg-id="Zee Bioskop" tvg-logo="https://static.mncnow.id/images/channel/6ecb9b54/794c_r32.jpg" group-title="1. INDONESIA", Zee Bioskop indi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+https://cdn11jtedge.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_1200000=4-3309216910000000.mp4
+
+----
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd 
+-----
 
 #REFRESH="1"
 EXTINF:-10.0 group-title="1. INDONESIA" tvg-logo="https://i.imgur.com/weT5Wcy.png", ONE V+
