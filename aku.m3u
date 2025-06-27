@@ -1930,7 +1930,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/in
 
 #EXTINF:-1 tvg-id="Zee Bioskop" tvg-logo="https://static.mncnow.id/images/channel/6ecb9b54/794c_r32.jpg" group-title="1. INDONESIA", Zee Bioskop indi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-https://cdn11jtedge.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_1200000=4-3309216910000000.mp4
+https://cdn11jtedge.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_1200000=4-3309216910000000.mpd
 
 ----
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -2405,3 +2405,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO HD;1. INDONESIA",Cinemax
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png",Tawaf TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://cdn13jtedge.indihometv.com/atm/DASH/tawaftv/tawaftv-avc1_2500000=7-3309221150000000.mpd
