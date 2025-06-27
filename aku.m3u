@@ -108,12 +108,6 @@ https://atemeshield1-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS;BOLA;TIMNAS",Diema Sport 2
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium466/mono.m3u8
-
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sportdigital-fussball.png" group-title="SPORTS;BOLA;TIMNAS",SportDigital Fussball
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcxL21vbm8ubTN1OA==.m3u8
-
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="1. INDONESIA;BOLA;SPORTS;TIMNAS;BUNDESLIGA", SPORTSTARS 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -127,9 +121,6 @@ https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/mls.m3u8
 rtmp:///live/test123
 ----------
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="ID: RCTI HD" tvg-logo="https://i.ibb.co/jZ3SKjM/RCTI-PPI-IP-TV.png" group-title="TIMNAS",ID: RCTI HD TK
-http://tvking.xyz:8080/Pecijay952/abc12345/5144
-
 
 ------
 #KODIPROP:contentlookup=False
@@ -140,7 +131,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 ----
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png" group-title="TIMNAS", RCTI LIVE ONLY TIMNAS
+EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png" group-title="TIMNAS", RCTI LIVE ONLY TIMNAS
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://midcache.rctiplus.id/hdlive2/inavsjapan20250610_720p/index.m3u8
 
@@ -156,13 +147,6 @@ https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
 https://pastebin.com/raw/0a96dpHJ
 https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-3-serbia.png" group-title="TIMNAS",Sport Klub 3 Serbia
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS",Sport Klub 2 Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDIvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",TBS USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://fl3.moveonjoy.com/TBS/tracks-v1a1/mono.ts.m3u8
@@ -170,11 +154,6 @@ https://fl3.moveonjoy.com/TBS/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™",MBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
-
-EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubuserconom/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SPORTS;Fifa Club World Cup™", Super Sports Premier League 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
-
 
 #EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-logo="https://iili.io/d93woZP.png" group-title="SPORTS;Fifa Club World Cup™",Mediaset 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
