@@ -2097,16 +2097,16 @@ https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-3-hd.png" group-title="SPORTS;BOLA", ArenaPremium 3
 https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="SPORTS;BOLA",ElevenSport 1
+#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="SPORTS;BOLA",Eleven Sport 1
 https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="SPORTS;BOLA",ElevenSport 2
+#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="SPORTS;BOLA",Eleven Sport 2
 https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png" group-title=SPORTS;BOLA",ElevenSport 3
+#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png" group-title="SPORTS;BOLA",Eleven Sport 3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-4-hd(1).png" group-title="SPORTS;BOLA",ElevenSport 4
+#EXTINF:-1 tvg-id="ElevenSport4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-4-hd(1).png" group-title="SPORTS;BOLA",Eleven Sport 4
 https://wahyu1ptv.pages.dev/ElevenSports4-HD.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV1.png" group-title="SPORTS;BOLA",SportTV 1
@@ -2151,5 +2151,5 @@ https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus1.png" group-title="MALAY SPORTS;SPORTS",Astro Sport Plus 1
 https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title=SPORTS;MotoGP",Sky Sport MotoGP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="SPORTS;MotoGP",Sky Sport MotoGP
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
