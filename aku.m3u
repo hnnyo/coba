@@ -2089,12 +2089,12 @@ https://cdn13jtedge.indihometv.com/atm/DASH/tawaftv/tawaftv-avc1_2500000=7-33092
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-1-hd.png" group-title="SPORTS;BOLA", ArenaPremium 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-1-hd.png" group-title="SPORTS;BOLA", Arena Premium 1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-2-hd.png" group-title="SPORTS;BOLA", Arena Premium 2
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-3-hd.png" group-title="SPORTS;BOLA", ArenaPremium 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-3-hd.png" group-title="SPORTS;BOLA", Arena Premium 3
 https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="SPORTS;BOLA",Eleven Sport 1
