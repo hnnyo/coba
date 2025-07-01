@@ -13,6 +13,69 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 HD" tvg-logo="https://iili.io/3EWIMZv.jpg" group-title="DAZN",DAZN 6
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117753
 
+############################  DAZN SPORT  ##########################
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="DAZN" ch-number="1" type="channel",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-580/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="DAZN" ch-number="2" type="channel",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="DAZN" ch-number="3" type="channel",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-582/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="DAZN" ch-number="4" type="channel",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6frj4P/daznf1.png" group-title="DAZN" ch-number="5" type="channel",DAZN  F1
+https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SO0kTMjdzMkZ2NhRTLyEmMh1SYzMGNtYmMjJTLhVmMxIjZmNzL.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b1f85f6e81059473b114c16a25c829a:43d1c3b25207ff38b22ccfe17d302367
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jq8BrD8/daznlaliga.png" group-title="DAZN" ch-number="6" type="channel",DAZN  LALIGA
+https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CM0MWNmV2YhdjZ1EWLjF2Yi1COyADNtkTN2EWL0QWOzATN4QzL.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bff19ab0a51cf14e848389b152913fd0:44dd9cd370b08a868ead115fe84ecfde
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sb2ykSM/D1.png" group-title="DAZN" ch-number="7" type="channel",DAZN  1  ES
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzY0MjA0OTg5NjUwLTBhODgtMTVmNC1kOWU2LTU0ZjQwZjRi/master.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3f061ded9b70e8160590d5802ecda6d:0eab5a3f3e3b4ba5d42d40ca30d17571
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7DJ0nd/D2.png" group-title="DAZN" ch-number="8" type="channel",DAZN  2  ES
+https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iYkR2M1gzM4Y2MlhTLkJWOi1yMyYGNtEDOhZWLjVWZxgjYkFzL.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/thumbnail.jpg" group-title="DAZN" ch-number="9" type="channel",DAZN WOMEN'S FOOTBALL
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dppb0t6/dazn-rise.png" group-title="DAZN" ch-number="10" type="channel",DAZN RISE
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNvwdCR/dazn-fast-plus.png" group-title="DAZN" ch-number="11" type="channel",DAZN FAST+
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tB57qV/dazn-combat.png" group-title="DAZN" ch-number="12" type="channel",DAZN COMBAT
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="Fifa Club World Cup™", Fifa CWC 1
