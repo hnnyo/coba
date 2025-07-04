@@ -1,5 +1,43 @@
 #EXTM3U billed-msg="SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", INDOSIAR 2 OK
+http://103.180.118.5:9981/stream/channelid/290871490
+
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MOJI OK
+http://103.159.195.61:9981/stream/channelid/1696608012?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", GTV OK
+https://hakim45.serv00.net/smarttv.php?id=Gtv
+
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", RCTI OK OKhttps://hakim45.serv00.net/smarttv.php?id=Rcti
+
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", INDOSIAR OK
+https://hakim45.serv00.net/smarttv.php?id=Indosiar
+
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", KOMPAS TV OK
+https://hakim45.serv00.net/smarttv.php?id=Kompass
+
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", ANTV OK
+https://hakim45.serv00.net/smarttv.php?id=Antv
+
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MNCTV OK
+https://hakim45.serv00.net/smarttv.php?id=Mnctv
+
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", METRO TV OK
+https://hakim45.serv00.net/smarttv.php?id=metrotv_eko
+
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MDTV OK
+https://hakim45.serv00.net/smarttv.php?id=NetTV
+
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", SCTV OK
+https://hakim45.serv00.net/smarttv.php?id=SCTV
+
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", TRANS 7 OK
+https://hakim45.serv00.net/smarttv.php?id=Trans7_eko
+
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", TRANS TV OK
+https://hakim45.serv00.net/smarttv.php?id=Transtv
+
 #EXTINF:-1 tvg-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg" group-title="ANAK-ANAK", 24/7 TOM AND JERRY
 http://1tv41.icu:8080/live/aQwbj3/140716/125635.m3u8
 
