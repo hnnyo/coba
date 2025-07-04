@@ -9,7 +9,8 @@ http://103.159.195.61:9981/stream/channelid/1696608012?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", GTV OK
 https://hakim45.serv00.net/smarttv.php?id=Gtv
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", RCTI OK OKhttps://hakim45.serv00.net/smarttv.php?id=Rcti
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", RCTI OK
+https://hakim45.serv00.net/smarttv.php?id=Rcti
 
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", INDOSIAR OK
 https://hakim45.serv00.net/smarttv.php?id=Indosiar
