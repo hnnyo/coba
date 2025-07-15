@@ -1,50 +1,20 @@
 #EXTM3U billed-msg="SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
-#EXTINF:-1 group-title="PIALA PRESIDEN" tvg-logo="https://cdn.rri.co.id/berita/Denpasar/f/1750442828814-ppoh156n.jpeg", SIN PO TV
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://103.159.195.61:9981/stream/channelid/828235930?profile=pass
+#EXTINF:-1 group-title="AFF U23" tvg-id="" tvg-logo="https://iili.io/FWIr6GV.md.png",Live a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", INDOSIAR 2 OK
-http://103.180.118.5:9981/stream/channelid/290871490
+#EXTINF:-1 group-title="AFF U23" tvg-id="" tvg-logo="https://iili.io/FWIZOmP.md.png",Live b
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MOJI OK
-http://103.159.195.61:9981/stream/channelid/1696608012?profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", GTV OK
-https://hakim45.serv00.net/smarttv.php?id=Gtv
+#EXTINF:-1 group-title="AFF U23" tvg-id="UEFA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6d/Logo_Bayon_Television.png", BAYON TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/chunklist_w321706025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", RCTI OK
-https://hakim45.serv00.net/smarttv.php?id=Rcti
-
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", INDOSIAR OK
-https://hakim45.serv00.net/smarttv.php?id=Indosiar
-
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", KOMPAS TV OK
-https://hakim45.serv00.net/smarttv.php?id=Kompass
-
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", ANTV OK
-https://hakim45.serv00.net/smarttv.php?id=Antv
-
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MNCTV OK
-https://hakim45.serv00.net/smarttv.php?id=Mnctv
-
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", METRO TV OK
-https://hakim45.serv00.net/smarttv.php?id=metrotv_eko
-
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MDTV OK
-https://hakim45.serv00.net/smarttv.php?id=NetTV
-
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", SCTV OK
-https://hakim45.serv00.net/smarttv.php?id=SCTV
-
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", TRANS 7 OK
-https://hakim45.serv00.net/smarttv.php?id=Trans7_eko
-
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", TRANS TV OK
-https://hakim45.serv00.net/smarttv.php?id=Transtv
-
-#EXTINF:-1 tvg-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg" group-title="ANAK-ANAK", 24/7 TOM AND JERRY
-http://1tv41.icu:8080/live/aQwbj3/140716/125635.m3u8
 
 #EXTINF:-1 group-logo="https://iili.io/2y78c5x.png" tvg-id="" tvg-name="PT: ELEVEN 1 HD" tvg-logo="https://iili.io/3EWn30X.jpg" group-title="DAZN",DAZN 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
