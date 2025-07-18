@@ -6,11 +6,11 @@
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="AFF U23",INDOSIAR HD
+EXTINF:0 tvg-country="CN" tvg-logo="" group-title="AFF U23",INDOSIAR HD
 http://tvking.xyz:8080/Pecijay952/abc12345/5117
 
 
-#EXTINF:-1 tvg-id="SCTV.my.id" tvg-name="SCTV ᴴᴰ" tvg-logo="https://iili.io/JMp3iiX.png" group-title="AFF U23", SCTV Dig
+EXTINF:-1 tvg-id="SCTV.my.id" tvg-name="SCTV ᴴᴰ" tvg-logo="https://iili.io/JMp3iiX.png" group-title="AFF U23", SCTV Dig
 http://tvking.xyz:8080/Pecijay952/abc12345/5147
 
 #EXTINF:-1 tvg-id="SCTV.my.id" tvg-name="SCTV ᴴᴰ" tvg-logo="https://iili.io/JMp3iiX.png" group-title="AFF U23", SCTV Dig 2
@@ -20,6 +20,8 @@ http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://smart.pendy.dpdns.org/Smart.php?id=SCTV
+----
+
 
 #EXTINF:-1 group-title="AFF U23" tvg-id="" tvg-logo="https://iili.io/FWIr6GV.md.png",Live a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
