@@ -27,7 +27,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 #EXTINF:-1 group-title="AFF U23" tvg-id="" tvg-logo="https://iili.io/FWIr6GV.md.png",Live a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest_video_6_0_3748.mp4?m=1752832181
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest_video_6_0_3748.mpd?m=1752832181
 
 ---
 #https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
