@@ -13,7 +13,10 @@ http://tvking.xyz:8080/Pecijay952/abc12345/5117
 #EXTINF:-1 tvg-id="SCTV.my.id" tvg-name="SCTV ᴴᴰ" tvg-logo="https://iili.io/JMp3iiX.png" group-title="AFF U23", SCTV Dig
 http://tvking.xyz:8080/Pecijay952/abc12345/5147
 
-#KODIPROP:contentlookup=False
+#EXTINF:-1 tvg-id="SCTV.my.id" tvg-name="SCTV ᴴᴰ" tvg-logo="https://iili.io/JMp3iiX.png" group-title="AFF U23", SCTV Dig 2
+http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
+
+--#KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://smart.pendy.dpdns.org/Smart.php?id=SCTV
