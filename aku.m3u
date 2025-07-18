@@ -321,11 +321,11 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj
 
 #EXTINF:-1 tvg-logo="https://images." group-title="1. INDONESIA", Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
-https://cdn13jtedge.indihometv.com/atm/DASH/warner/warner-avc1_2500000=6-3278334240000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/warner-avc1_2500000=6-3278334240000000.mpd
 
 #EXTINF:-1 tvg-logo="https://images." group-title="ANAK-ANAK", Fun Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
-https://cdn14jtedge.indihometv.com/atm/DASH/indikids/indikids-avc1_2500000=7-3286265190000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/indikids-avc1_2500000=7-3286265190000000.mpd
 
 #EXTINF:-1 tvg-logo="https://images." group-title="1. INDONESIA", Trans 7 indi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
@@ -357,11 +357,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/da/download-logo-rcti-4.png" group-title="1. INDONESIA;ANAK-ANAK", RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=6-3278548290000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=6-3278548290000000.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/da/download-logo-rcti-4.png" group-title="1. INDONESIA", Inews indi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://streaming.indihometv.com/atm/DASH/inews/inews-avc1_2500000=15-3280280430000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/inews-avc1_2500000=15-3280280430000000.mpd
 
 
 
@@ -1787,7 +1787,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/in
 
 #EXTINF:-1 tvg-id="Zee Bioskop" tvg-logo="https://static.mncnow.id/images/channel/6ecb9b54/794c_r32.jpg" group-title="1. INDONESIA", Zee Bioskop indi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-https://cdn11jtedge.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_1200000=4-3309216910000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_1200000=4-3309216910000000.mpd
 
 ----
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -2216,11 +2216,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://dl.dropbox.com/p51aouwircr4f/im%281%29.jpeg", Prambors TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdngb196.indihometv.com/atm/DASH/PRAMBORS_TV/PRAMBORS_TV-avc1_2500000=6-3278332010000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/PRAMBORS_TV-avc1_2500000=6-3278332010000000.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://dl.dropbox.com/p51aouwircr4f/im%281%29.jpeg", MTV indi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdn13jtedge.indihometv.com/atm/DASH/MTV_LIVE/MTV_LIVE-avc1_2500000=6-3278332650000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/MTV_LIVE-avc1_2500000=6-3278332650000000.mpd
 
 
 #EXTINF:-1 tvg-id="816.astro" tvg-name="816.astro" group-title="SPORTS;MotoGP" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV B
@@ -2277,9 +2277,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 
-#EXTINF:-1 group-title="Religi" tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png",Tawaf TV
+#EXTINF:-1 group-title="Religi" tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png",DMI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://cdn13jtedge.indihometv.com/atm/DASH/tawaftv/tawaftv-avc1_2500000=7-3309221150000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/tawaftv-avc1_2500000=7-3309221150000000.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA;Knowledge" tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
