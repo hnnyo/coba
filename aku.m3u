@@ -8,7 +8,6 @@ http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott
 
 
 #EXTINF:-1 tvg-id="SCTV.my.id" tvg-name="SCTV ᴴᴰ" tvg-logo="https://iili.io/JMp3iiX.png" group-title="AFF U23", SCTV Dig
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.159.195.61:9981/stream/channelid/1713888165?profile=pass
 
 #KODIPROP:contentlookup=False
