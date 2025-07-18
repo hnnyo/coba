@@ -6,6 +6,9 @@
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
 
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="AFF U23",INDOSIAR HD
+http://103.159.195.61:9981/stream/channelid/148446043?profile=pass
+
 
 #EXTINF:-1 tvg-id="SCTV.my.id" tvg-name="SCTV ᴴᴰ" tvg-logo="https://iili.io/JMp3iiX.png" group-title="AFF U23", SCTV Dig
 http://103.159.195.61:9981/stream/channelid/1713888165?profile=pass
