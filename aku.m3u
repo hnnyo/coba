@@ -578,28 +578,8 @@ https://primatv.siar.us/primatv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-name="" tvg-logo="https://i.ibb.co.com/1zFVnXg/makkahlive.png" group-title="RELIGI", MAKKAH LIVE 🕋 ☪
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5321d2a153ab463dba1c60b9068165c6:6c8194b07b1f2d114feb594d2ae6ee51
-https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/3zB0gVk/madinahlive.png" group-title="RELIGI", MADINAH LIVE ☪
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3084383b39c3452b81ee0535bd381dee:bf25afb0796a4a73f127f056c206800d
-https://sunna-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.mpd
-
 #EXTINF:-1, group-title="RELIGI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_XY5BUzssBD9s2U7AU4Aw4R_PiY1dh_usVU6y0QU2OSUiF8tbj0TUghlQo_oVD0rMJdq05-Ipo3-zlGKTp5ajJKgvTqTNxyWCbYEvUU9G09mUKgHwu255mjWFyPYxug8IK1QESMmd8XY9wBjmHtNY-OsBBqdRfKBBgTpesutWbj0ZZrcuhtl79c_rqTW/s700/JOM%20NGAJI.png",JOM NGAJI
 https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjda3C8bYLdwfLRjxfHp1JHvcvVZviCVy6vX5iLz6pS4FIsunWee-ajwHB8xTRgB9WLXRJM0JpUPZhy97_TOHnksUsDrumkLc_FIKMXrfnnVI7H_02c5Gl7J1CP68IT1D5Q_4iNUNxmd5WEMgtr6bSGnnOJX-sq7crTjknytFGvuWSL88Vt_fLZWm9eLxDm/s700/DOA%20OFFICIAL.png" group-title="RELIGI" ,DOA OFFICIAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://piracy-dev.tech/dev/youtube/live/UCiQFGabMZQHqKcd0xDSQ8MA
-#https://yt-hls-get-v2.x0.to/youtube/?channel=UCiQFGabMZQHqKcd0xDSQ8MA
-#https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCiQFGabMZQHqKcd0xDSQ8MA
-#https://ythls-v2.onrender.com/channel/UCiQFGabMZQHqKcd0xDSQ8MA.m3u8
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCiQFGabMZQHqKcd0xDSQ8MA
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFw6yo_V7Uwjqq8LhVNGspqcRC7nerlbj2smg1KGh9kcXtzzP6Whc5yyURrAxYXXMswfpDdwh_6_rH54MAZVoDXWoF1mOfc58VTpoAc8SmV0e254bmWQ3CRuA7vu2YvcT_HGbwV7mIJtV609Xp1lv-76MuCraGL7_BNkSuF1XDaOnV7e-YPutP9ldTXVdW/s700/ZIKIR.png" group-title="RELIGI" ,DZIKIR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -614,11 +594,6 @@ https://rocket-tv.online/redtube/randomyt.m3u8?id=UCBN9NUto3-HXOh8YlQRjN6g
 #https://dl.dropboxusercontent.com/scl/fi/t35mjfro6n1qe7sabxslr/24-7-mr-bean-animated.m3u8?rlkey=bchy9i95g7meddfqpr3cdajef&st=h0guoi76
 #http://wanicelife.com:8880/6mc250009/28887461/60910
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-
-#EXTINF:-1, group-title="ANAK-ANAK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj59wGJTIsK3G5kctY5dpDlnBVFkHSb8aXnB_fNWLQqD_nzOlD4n239T2MNDH-wj-LcQC941UfuoHo63fAqhopeu9aM8joUQV98jtZqJ0Zvyt48yYzc4ccU-zREBrkvGiGbuYgUi04v1cPLqV2qNn5xq9mze-eSPe-3kOLY2pBp_AWwuXicpjoz8xI1TLDc/s700/TOM%20&%20JERRY.png",TOM & JERRY
-#https://mantul.biz.id:443/inetwork/gayanet12/20397.ts
-http://wanicelife.com:8880/6mc250009/28887461/60878
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="1. INDONESIA",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -812,7 +787,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
 #EXTINF:-1 tvg-id="Lokal" group-title="KNOWLEDGE" tvg-logo="https://saktitv.my.id/logo/knowledge/animal_planet.png" ch-number="92" group-logo="",Animal Planet indi
-https://cdn10jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
 #EXTINF:-1 tvg-id="Lokal" group-title="1. INDONESIA;KNOWLEDGE" tvg-logo="https://saktitv.my.id/logo/knowledge/crime_invest.png" ch-number="92" group-logo="",Crime Investigation
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2557,4 +2532,12 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37391.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA HD" tvg-logo="https://lo1.in/ger/skyb.png" group-title="SPORTS;BOLA;BUNDESLIGA",DE| SKY SPORT BUNDESLIGA HD
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/29201.m3u8
+
+#EXTINF:-1  tvg-logo="https://youtvata/channel/sd-bahasa-inggris_20250123111906.jpeg" group-title="Religi",Ashiil TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch2.m3u8
+
+#EXTINF:-1  tvg-logo="https://youtvata/channel/sd-bahasa-inggris_20250123111906.jpeg" group-title="Religi",Surau TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch3.m3u8
 
