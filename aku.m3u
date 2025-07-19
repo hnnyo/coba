@@ -2558,20 +2558,3 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37391.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA HD" tvg-logo="https://lo1.in/ger/skyb.png" group-title="SPORTS;BOLA;BUNDESLIGA",DE| SKY SPORT BUNDESLIGA HD
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/29201.m3u8
 
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportselect.png" group-title="SPORTS",Ziggo Sport
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/ZIGGO1.m3u8
-
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportvoetbal.png" group-title="SPORTS",Ziggo Sport 2
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/ZIGGO2.m3u8
-
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportgolf.png" group-title="SPORTS",Ziggo Sport 3
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/ZIGGO3.m3u8
-
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportracing.png" group-title="SPORTS",Ziggo Sport 4
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/ZIGGO4.m3u8
-
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosport.png" group-title="SPORTS",Ziggo Sport 5
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/ZIGGO5.m3u8
-
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportextra1.png" group-title="SPORT", Ziggo Sport 6
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/ZIGGO6.m3u8
