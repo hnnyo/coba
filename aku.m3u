@@ -1357,7 +1357,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.dens.tv/images/channel-logo/117.jpg" tvg-id="117" , Dens Food Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensFood_Channel|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" tvg-id="1" , Dens Knowledge
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" tvg-id="1" , Dens Knowledge
 http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensKnowledge|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.dens.tv/images/channel-logo/42.jpg" tvg-id="42" , Dens Life and Style
@@ -1757,13 +1757,6 @@ EXTINF:-1 tvg-id="tvN" tvg-logo="httpic.mncnow.id/images/channel/8226bb83/185e_r
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/tvN/sa_dash/tvN.mpd 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=204
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png",Drama World
-https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
-
 -----
 
 
@@ -1834,24 +1827,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=71
-#EXTINF:-1 tvg-id="OKTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="1. INDONESIA",Food Travel V+
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=71
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=89
-#EXTINF:-1 tvg-id="LifestyleandFashion.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="1. INDONESIA",Hanacaraka TV V+
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=89
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
@@ -2460,3 +2435,20 @@ https://flv.intechmedia.net/live/ch2.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch3.m3u8
 
+#EXTINF:-1  tvg-logo="https://youtvata/channel/sd-bahasa-inggr23111906.jpeg" group-title="Knowledge",XPLORE
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-country"ID" group-title="ANAK-ANAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCrl9Eu-mXYcafw9lBgZ40VQ4uzS-h9N704SxSfHARQLUBKK-rw0bf9Olo&s=10",KidTV Indonesia
+#EXTVLCOPT:http-origin=https://www.youtube.com
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCDVwLvLnrORclfiG_FjBUjQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/157727c6-25b3-4fc8-ae12-95a471eb09a5/dhickau-87072274-e25b-48bc-bc87-8dd774b028e6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE1NzcyN2M2LTI1YjMtNGZjOC1hZTEyLTk1YTQ3MWViMDlhNVwvZGhpY2thdS04NzA3MjI3NC1lMjViLTQ4YmMtYmM4Ny04ZGQ3NzRiMDI4ZTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vyHP15MVtu-s9t2TrVJB8he42rrtVgYLeNDLhVmrTso" group-title="Mr. Bean",Mr. Bean Cartoon
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="JustForLaughs" tvg-name="Just For Laughs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Just_For_Laughs_Gags_logo_%282005-2007%29.png/revision/latest/scale-to-width-down/321?cb=20241231022131",Just For Laughs
+https://freelive2.inwstream.com:1936/freelive-edge/gags_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDI1IDEyOjM1OjA2IEFNJmhhc2hfdmFsdWU9WmI4V2FTYzFUNXY5ejNOZ0ljSStJdz09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="1. INDONESIA;Knowledge",Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
