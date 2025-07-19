@@ -1571,35 +1571,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc106wh3yw
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
 
-#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="SPORTS;MotoGP", ZIGGO SPORT 🟠 🇳🇱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/go-dash-fhd-avc/NL_000094_019321.mpd?p=web
-
-#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="SPORTS", ZIGGO SPORT 🇳🇱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
-
-#EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-logo="https://i.ibb.co.com/3fNq3Dr/ziggosport2.png" group-title="SPORTS", ZIGGO SPORT 2 🇳🇱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
-
-#EXTINF:-1 tvg-id="Ziggo Sport 3.nl" tvg-logo="https://i.ibb.co.com/b2Q0RdR/ziggosport3.png" group-title="SPORTS", ZIGGO SPORT 3 🇳🇱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
-https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
-
-#EXTINF:-1 tvg-id="Ziggo Sport 5.nl" tvg-logo="https://i.ibb.co.com/bbVShcY/ziggosport5.png" group-title="SPORTS", ZIGGO SPORT 5 🇳🇱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
-https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
-
-#EXTINF:-1 tvg-id="Ziggo Sport 6.nl" tvg-logo="https://i.ibb.co.com/P5xs9ZF/ziggosport6.png" group-title="SPORTS",  ZIGGO SPORT 6 🇳🇱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 
 #EXTINF:-1 tvg-id="V sport 1 HD (N) (T)" tvg-logo="https://i.ibb.co.com/WsDcpQq/vsport1.png" group-title="SPORTS",  V Sport 1 🇳🇴
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2301,15 +2272,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/tawaftv-avc1_2500000=7-33092
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-1-hd.png" group-title="SPORTS;BOLA", Arena Premium 1
-https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-2-hd.png" group-title="SPORTS;BOLA", Arena Premium 2
-https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-3-hd.png" group-title="SPORTS;BOLA", Arena Premium 3
-https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
-
 #EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="SPORTS;BOLA",Eleven Sport 1
 https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
 
@@ -2397,6 +2359,48 @@ http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15735
 
 #EXTINF:-1 tvg-id="26890" tvg-name="Arena Sport 10 HR" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="SPORTS;BOLA" ,Arena Sport 10 HR
 http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15736
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/arenasport1hd.png" group-title="SPORTS",Arena Sport 1 HD SR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:83:8F:C3&stream=39615&extension=ts
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/arena_sport_rs_2.png" group-title="SPORTS",Arena Sport 2 HD SR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:83:8F:C3&stream=39614&extension=ts
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Arena-Sport-03.png" group-title="SPORTS",Arena Sport 3 HD SR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:83:8F:C3&stream=39613&extension=ts
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ARENA-SPORT-4.png" group-title="SPORTS",Arena Sport 4 HD SR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:83:8F:C3&stream=39612&extension=ts
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ARENA-SPORT-5.jpg" group-title="SPORTS",Arena Sport 5 HD SR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:83:8F:C3&stream=39611&extension=ts
+
+#EXTINF:-1 group-title="SPORTS",ARENA SPORT 6 HD SR
+http://line.extraott-iptv.com:88/live/2755789541/1300714776/373389.m3u8
+
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 7 HD SR
+http://line.extraott-iptv.com:88/live/2755789541/1300714776/400269199.m3u8
+
+#EXTINF:-1 group-title="SPORTS" ARENA SPORT 8 HD SR
+http://line.extraott-iptv.com:88/live/2755789541/1300714776/400269198.m3u8
+
+#EXTINF:-1 group-title="SPORTS",ARENA SPORT 9 HD SR
+http://line.extraott-iptv.com:88/live/2755789541/1300714776/400269197.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS", ARENA SPORT 10 HD SR
+http://line.extraott-iptv.com:88/live/2755789541/1300714776/400269196.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena Sport 1 Premium HD SR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:83:8F:C3&stream=151806&extension=ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena Sport 2 Premium HD SR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:83:8F:C3&stream=151805&extension=ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena Sport 3 Premium HD SR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:83:8F:C3&stream=151804&extension=ts
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://enz.gdplayertv.to/assets/img/logo/fox-sports-1.png" group-title="SPORTS;BOLA",Fox Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2492,3 +2496,82 @@ https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Knowledge",National Geographic East
 https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png" group-title="SPORTS",SPOTV V+
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png" group-title="SPORTS;MotoGP",SPOTV 2 V+
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+#EXTINF:-1 tvg-id="1.OPTUS" tvg-name="AU| OPTUS 01 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS",AU| OPTUS 01 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37401.m3u8
+
+
+#EXTINF:-1 tvg-id="2.OPTUS" tvg-name="AU| OPTUS 02 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS",AU| OPTUS 02 LIVE 
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37400.m3u8
+
+
+#EXTINF:-1 tvg-id="3.OPTUS" tvg-name="AU| OPTUS 03 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS",AU| OPTUS 03 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37399.m3u8
+
+
+#EXTINF:-1 tvg-id="4.OPTUS" tvg-name="AU| OPTUS 04 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS",AU| OPTUS 04 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37398.m3u8
+
+
+#EXTINF:-1 tvg-id="5.OPTUS" tvg-name="AU| OPTUS 05 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS",AU| OPTUS 05 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37397.m3u8
+
+
+#EXTINF:-1 tvg-id="6.OPTUS" tvg-name="AU| OPTUS 06 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS",OPTUS 06 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37396.m3u8
+
+
+#EXTINF:-1 tvg-id="7.OPTUS" tvg-name="AU| OPTUS 07 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS",OPTUS 07 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37395.m3u8
+
+#EXTINF:-1 tvg-id="8.OPTUS" tvg-name="AU| OPTUS 08 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS",OPTUS 08 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37394.m3u8
+
+
+#EXTINF:-1 tvg-id="9.OPTUS" tvg-name="AU| OPTUS 09 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS",OPTUS 09 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37393.m3u8
+
+
+#EXTINF:-1 tvg-id="10.OPTUS" tvg-name="AU| OPTUS 10 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS",OPTUS 10 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37392.m3u8
+
+
+#EXTINF:-1 tvg-id="11.OPTUS" tvg-name="AU| OPTUS 11 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS",OPTUS 11 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37391.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA HD" tvg-logo="https://lo1.in/ger/skyb.png" group-title="SPORTS;BOLA;BUNDESLIGA",DE| SKY SPORT BUNDESLIGA HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/29201.m3u8
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportselect.png" group-title="SPORTS",Ziggo Sport
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/ZIGGO1.m3u8
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportvoetbal.png" group-title="SPORTS",Ziggo Sport 2
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/ZIGGO2.m3u8
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportgolf.png" group-title="SPORTS",Ziggo Sport 3
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/ZIGGO3.m3u8
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportracing.png" group-title="SPORTS",Ziggo Sport 4
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/ZIGGO4.m3u8
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosport.png" group-title="SPORTS",Ziggo Sport 5
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/ZIGGO5.m3u8
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportextra1.png" group-title="SPORT", Ziggo Sport 6
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/ZIGGO6.m3u8
